@@ -1,0 +1,16 @@
+e1791f69ac6ea228f6079c30dd0fe485 *DESCRIPTION
+237fe35a263e86f64d429b82916e3241 *NAMESPACE
+184c479f3b126d3d98a6643df0a24ccd *NEWS.md
+e3ffe4e1d9adf9a722bb99477e06c0be *R/data.R
+86edd56e1d819de94acdf7326c253678 *R/functions.R
+7c94e23b2dd5abd6cd3a6f090b265923 *R/highDmean.R
+4ebf8248f36b0b89469bb394e0eff18c *README.md
+5ba960722b110607d40102a65947ac64 *data/GO_example.rda
+dc0c86c6d5318adb44d577b20c032be0 *man/GO_example.Rd
+129c77decdd55c1d856064dc27c3b452 *man/SKK_sim.Rd
+c842880dbee8ffc59c15d76ff28bd722 *man/SKK_test.Rd
+f324636f677d03d5a02e0f4eb4fc53f3 *man/buildData.Rd
+f1d382ebdee094f0444a72709296b551 *man/highDmean.Rd
+cc43199b8ca043216400a1c38071b4f5 *man/rgammashift.Rd
+02a647c6b7b5381c4ab272ac1dcf832e *man/zwl_sim.Rd
+1e57769837056097080bb8093d5012f2 *man/zwl_test.Rd
